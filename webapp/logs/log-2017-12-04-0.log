@@ -1,0 +1,115 @@
+2017-12-04 10:51:24 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 9472 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 10:51:24 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 10:51:24 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 10:51:32 [main] INFO  c.s.w.App - Started App in 9.05 seconds (JVM running for 11.202)
+2017-12-04 10:51:32 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 10:53:58 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 11232 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 10:53:58 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 10:53:58 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 10:54:03 [main] INFO  c.s.w.App - Started App in 5.371 seconds (JVM running for 5.957)
+2017-12-04 10:54:03 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 10:54:52 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 7616 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 10:54:52 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 10:54:52 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 10:54:57 [main] INFO  c.s.w.App - Started App in 5.148 seconds (JVM running for 5.736)
+2017-12-04 10:54:57 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 10:57:38 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 6240 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 10:57:38 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 10:57:38 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 10:57:43 [main] INFO  c.s.w.App - Started App in 5.347 seconds (JVM running for 6.026)
+2017-12-04 10:57:43 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 11:02:06 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 8988 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 11:02:06 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 11:02:06 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 11:02:11 [main] INFO  c.s.w.App - Started App in 5.805 seconds (JVM running for 6.392)
+2017-12-04 11:02:11 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 11:18:16 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 13036 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 11:18:16 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 11:18:16 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 11:18:20 [main] INFO  c.s.w.App - Started App in 5.492 seconds (JVM running for 6.502)
+2017-12-04 11:18:20 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 11:36:12 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 18796 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 11:36:12 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 11:36:12 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 11:36:17 [main] INFO  c.s.w.App - Started App in 6.059 seconds (JVM running for 6.584)
+2017-12-04 11:36:17 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 11:40:44 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 16076 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 11:40:44 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 11:40:44 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 11:40:49 [main] INFO  c.s.w.App - Started App in 5.632 seconds (JVM running for 6.228)
+2017-12-04 11:40:49 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 11:59:34 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 20888 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 11:59:34 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 11:59:34 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 11:59:39 [main] INFO  c.s.w.App - Started App in 5.699 seconds (JVM running for 6.219)
+2017-12-04 11:59:39 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 12:20:04 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 17808 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 12:20:04 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 12:20:04 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 12:20:09 [main] INFO  c.s.w.App - Started App in 5.362 seconds (JVM running for 6.137)
+2017-12-04 12:20:09 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 13:48:07 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 9800 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 13:48:07 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 13:48:07 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 13:48:13 [main] INFO  c.s.w.App - Started App in 6.133 seconds (JVM running for 6.642)
+2017-12-04 13:48:13 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 14:39:36 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 23424 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 14:39:36 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 14:39:36 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 14:39:40 [main] INFO  c.s.w.App - Started App in 4.938 seconds (JVM running for 5.746)
+2017-12-04 14:39:40 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 14:44:02 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 18356 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 14:44:02 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 14:44:02 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 14:44:07 [main] INFO  c.s.w.App - Started App in 5.415 seconds (JVM running for 6.12)
+2017-12-04 14:44:07 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 15:56:52 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 22648 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 15:56:52 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 15:56:52 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 15:56:57 [main] INFO  c.s.w.App - Started App in 5.546 seconds (JVM running for 6.175)
+2017-12-04 15:56:57 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 16:14:10 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 7564 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 16:14:10 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 16:14:10 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 16:14:15 [main] INFO  c.s.w.App - Started App in 4.982 seconds (JVM running for 5.517)
+2017-12-04 16:14:15 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 16:24:46 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 15720 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 16:24:46 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 16:24:46 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 16:24:51 [main] INFO  c.s.w.App - Started App in 5.552 seconds (JVM running for 6.095)
+2017-12-04 16:24:51 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 16:37:31 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 15868 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 16:37:31 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 16:37:31 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 16:37:36 [main] INFO  c.s.w.App - Started App in 5.077 seconds (JVM running for 5.61)
+2017-12-04 16:37:36 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 16:39:45 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 14032 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 16:39:45 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 16:39:45 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 16:39:50 [main] INFO  c.s.w.App - Started App in 5.96 seconds (JVM running for 6.543)
+2017-12-04 16:39:50 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 16:43:57 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 10944 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 16:43:57 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 16:43:57 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 16:44:02 [main] INFO  c.s.w.App - Started App in 5.584 seconds (JVM running for 6.119)
+2017-12-04 16:44:02 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 16:45:37 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 22472 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 16:45:37 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 16:45:37 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 16:45:41 [main] INFO  c.s.w.App - Started App in 4.565 seconds (JVM running for 5.069)
+2017-12-04 16:45:41 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 16:46:52 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 6932 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 16:46:52 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 16:46:52 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 16:46:57 [main] INFO  c.s.w.App - Started App in 5.324 seconds (JVM running for 6.015)
+2017-12-04 16:46:57 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 16:47:36 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 9988 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 16:47:36 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 16:47:36 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 16:47:41 [main] INFO  c.s.w.App - Started App in 5.047 seconds (JVM running for 5.711)
+2017-12-04 16:47:41 [main] INFO  c.s.w.App - boot server success ...
+2017-12-04 17:17:11 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 21884 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in e:\vscode_workspace_java\spring-http-server\webapp)
+2017-12-04 17:17:11 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-12-04 17:17:11 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-12-04 17:17:16 [main] INFO  c.s.w.App - Started App in 5.623 seconds (JVM running for 6.218)
+2017-12-04 17:17:16 [main] INFO  c.s.w.App - boot server success ...

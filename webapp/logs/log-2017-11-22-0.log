@@ -1,0 +1,5 @@
+2017-11-22 09:00:59 [main] INFO  c.s.w.App - Starting App on Leo-PC with PID 5948 (E:\vscode_workspace_java\spring-http-server\webapp\target\classes started by Leo in E:\vscode_workspace_java\spring-http-server\webapp)
+2017-11-22 09:00:59 [main] DEBUG c.s.w.App - Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-22 09:00:59 [main] INFO  c.s.w.App - The following profiles are active: dev
+2017-11-22 09:01:03 [main] INFO  c.s.w.App - Started App in 4.897 seconds (JVM running for 14.138)
+2017-11-22 09:01:03 [main] INFO  c.s.w.App - boot server success ...
